@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "TIMER_SCHEDULE": "*/30 * * * * *",
+    "DB_SERVER": "967cad58-7813-4cda-b930-a92920663408",
+    "DB_PORT": "1433",
+    "DB_NAME": "itsm",
+    "DB_USER": "seu-usuario",
+    "DB_PASSWORD": "mJtm1ykno#0=rTPrK#B",
+    "languageWorkers__python__defaultExecutablePath": "C:/Users/caiot/Downloads/TAPRC-2026-com-extracao/TAPRC-2026/.venv/Scripts/python.exe"
+  }
+}
